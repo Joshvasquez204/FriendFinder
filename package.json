@@ -7,7 +7,7 @@
     "express": "^4.17.1"
   },
   "engines": {
-    "node": "10.15.3"
+    "node": "10.x.x"
   },
   "devDependencies": {},
   "scripts": {
